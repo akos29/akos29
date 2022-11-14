@@ -5,11 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akos29" alt="akos29" /></a> </p>
 
-- 🔭 Safari ICT Solutions PLC [BDLithops](akos.com)
+- 🔭 Interested in software development 
 
 - 🌱 I’m currently learning **JavaScript, React, Redux**
 
-- 💬 Ask me about **react**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
