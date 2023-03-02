@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kibrewossen</h1>
-<h3 align="center">A passionate frontend developer from Swaziland</h3>
+<h3 align="center">A passionate full-stack developer from Swaziland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akos29&label=Profile%20views&color=0e75b6&style=flat" alt="akos29" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 Interested in software development 
 
-- 🌱 I’m currently learning **Ruby and Rails **
+- 🌱 I’m currently learning **Rails**
 
 
 <h3 align="left">Connect with me:</h3>
